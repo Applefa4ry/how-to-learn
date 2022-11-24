@@ -145,6 +145,8 @@
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
+  padding-left: 0;
+  list-style: none;
 }
 
 .table__cell{
@@ -287,6 +289,8 @@
   font-weight: normal;
   display: flex;
   flex-direction: column;
+  list-style: none;
+  padding-left: 0;
 }
 
 .footer__column-link{
