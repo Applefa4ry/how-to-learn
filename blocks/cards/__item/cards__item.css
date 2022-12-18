@@ -2,8 +2,14 @@
   /* margin-right: 100px; */
   flex-basis: 240px;
   text-align: center;
+  padding: 0;
 }
 
-.cards__item:nth-child(3n+2){
-  margin-right: 0;
+.cards__item:nth-child(5){
+  margin-left: 100px;
+  margin-right: auto;
 }
+
+
+
+
