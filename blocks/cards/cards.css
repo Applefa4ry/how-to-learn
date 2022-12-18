@@ -4,6 +4,8 @@
   padding-left: 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
+  align-items: flex-start;
   list-style: none;
+  gap: 0 100px;
 }
