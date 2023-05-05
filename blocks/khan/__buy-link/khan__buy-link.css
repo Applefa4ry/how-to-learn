@@ -5,9 +5,9 @@
   white-space: nowrap;
   color: #2f80ed;
   text-decoration: none;
+  transition: opacity 300ms;
 }
 
 .khan__buy-link:hover{
   opacity: 50%;
-  transition: opacity 300ms;
 }
